@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FiMapPin, FiPhone, FiMail, FiClock, FiUser, FiSend } from 'react-icons/fi';
+import { FiMapPin, FiPhone, FiClock, FiUser, FiSend } from 'react-icons/fi';
 
 const ContactosPage: React.FC = () => {
   return (
